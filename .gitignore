@@ -172,6 +172,10 @@ cython_debug/
 # Additional:
 tinybert-movie-review-sentiment/
 tinybert-movie-review-sentiment
+
+tinybert-sentiment-analysis/
+tinybert-sentiment-analysis
+
 train_dir/
 train_dir
 
